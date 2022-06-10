@@ -1,4 +1,4 @@
-# MyPortfolio
+# LINE,Twitterに自動で投稿するアプリケーション
 
 LINEやTwitterに自動で投稿するアプリケーションです。
 主な機能はmian1.pyに記述してあります
